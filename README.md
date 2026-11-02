@@ -10,10 +10,12 @@
 \*These two are a bit challenging but give it a try!
 
 ### Getting started
-1) Clone this repo on your local machine
-2) Make sure that Vite and Node.js are downloaded!
-3) Create a new React app using Vite
-4) Get to programming!
+1) Create a template (press the green button called "use this template")
+2) Create a new repository (you're essentially creating a copy)
+3) Clone the copied repository to your local machine
+4) Make sure that Vite and Node.js are downloaded!
+5) Create a new React app using Vite
+6) Get to programming!
 
 ### Resources:
 - https://developer.mozilla.org/en-US/docs/Web/HTML
